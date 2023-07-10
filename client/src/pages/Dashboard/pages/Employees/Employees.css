@@ -1,0 +1,28 @@
+.admins-wrapper {
+  margin: auto;
+  margin-top: 120px;
+}
+.table-container {
+  margin: auto;
+  margin-left: 5%;
+  width: 70% !important;
+  margin-top: 60px;
+}
+.admins-wrapper-buttons {
+  margin-left: 28%;
+}
+.admins-wrapper-buttons div {
+  display: inline-block;
+  margin: 10px;
+}
+.table-head {
+  background-color: #363743;
+}
+.table-cell {
+  color: white !important;
+}
+.emp-title {
+  font-size: 1.3rem;
+  text-align: end;
+  margin: 20px;
+}

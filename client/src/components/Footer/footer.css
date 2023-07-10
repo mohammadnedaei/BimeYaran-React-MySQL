@@ -1,0 +1,10 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+.footer-text {
+  text-align: center;
+  font-family: Iran-Sans, sans-serif !important;
+  font-size: 0.7rem !important;
+}

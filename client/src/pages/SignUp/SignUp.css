@@ -1,0 +1,30 @@
+.text-light {
+  color: white !important;
+}
+.signin-logo {
+  filter: hue-rotate(50deg);
+}
+.login-form-container {
+  margin-top: 60px !important;
+  border-radius: 20px;
+  box-shadow: 4px -2px 15px 4px rgba(0, 0, 46, 0.06) !important;
+}
+.home-btn {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.dup-email {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  text-align: center;
+}
+.registered {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  text-align: center;
+}

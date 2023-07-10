@@ -1,0 +1,21 @@
+.admin {
+  width: 100px;
+  margin: auto;
+  padding: 8px;
+  background-color: #a0efa6;
+  border-radius: 20px;
+}
+.manager {
+  width: 100px;
+  margin: auto;
+  padding: 8px;
+  background-color: #edb2b2;
+  border-radius: 20px;
+}
+.owner {
+  width: 100px;
+  margin: auto;
+  padding: 8px;
+  background-color: #00ffeb;
+  border-radius: 20px;
+}

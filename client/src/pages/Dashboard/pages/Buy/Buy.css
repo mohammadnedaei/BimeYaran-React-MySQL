@@ -1,0 +1,44 @@
+.buy-container {
+  display: flex;
+  justify-content: center;
+}
+.buy-btn-container {
+  width: 190px;
+  margin: auto !important;
+  margin-bottom: 50px !important;
+}
+.buy-container div {
+  margin: 30px;
+}
+.buy-wrapper {
+  margin-left: 5%;
+  width: 70%;
+  margin-top: 90px;
+  background-color: #e1e9ef;
+  padding: 20px;
+  border-radius: 10px;
+}
+.wrong-buy {
+  width: 30%;
+  margin-left: 35%;
+}
+.right-buy {
+  width: 30%;
+  margin-left: 35%;
+}
+
+.buy-btn {
+  margin: auto !important;
+  margin-left: 20px !important;
+  margin-top: 20px !important;
+}
+.buy-item {
+  margin: 20px !important;
+}
+.success-icon {
+  margin: auto;
+  margin-bottom: 17px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+}

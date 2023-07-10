@@ -1,0 +1,14 @@
+.pending {
+  width: 100px;
+  margin: auto;
+  padding: 8px;
+  background-color: #f8f5b0;
+  border-radius: 20px;
+}
+.completed {
+  width: 100px;
+  margin: auto;
+  padding: 8px;
+  background-color: #8ada76;
+  border-radius: 20px;
+}

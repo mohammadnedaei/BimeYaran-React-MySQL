@@ -1,0 +1,61 @@
+.dashboard-toolbar {
+  background-color: white;
+  color: #1a1a1a;
+  justify-content: space-between;
+}
+.dashboard-toolbar h1 {
+  font-size: 1.4rem;
+  margin: 10px;
+}
+.user-icon {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 7px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+}
+.user-email {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.drawer-list-item-icon {
+  position: absolute;
+  right: -15px;
+  top: 6px;
+}
+.drawer-list-item-text {
+  margin: auto;
+}
+
+.user-role {
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 80px;
+  padding: 3px;
+  border-radius: 50px;
+}
+.active-insurance-container {
+  width: 80%;
+  margin-left: 10px;
+  margin-top: 150px;
+  background-color: rgb(234, 236, 239);
+  padding: 20px;
+  border-radius: 10px;
+}
+.active-insurance-container-child {
+  display: flex;
+  justify-content: space-between;
+}
+.active-insurance-title {
+  margin-bottom: 30px;
+}
+.insurance-item {
+  width: 23%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #e1e6e6;
+}

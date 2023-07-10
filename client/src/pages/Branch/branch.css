@@ -1,0 +1,6 @@
+.items-container {
+}
+.items-container > div {
+  background-color: rgba(234, 235, 237, 0.77);
+  border-radius: 20px;
+}
