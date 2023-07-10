@@ -5,7 +5,6 @@ import SignUp from "../pages/SignUp/SignUp";
 import Dashboard from "../pages/Dashboard/Dashboard";
 import Contact from "../pages/Contact/Contact";
 import About from "../pages/About/About";
-import Test from "../pages/Test";
 import Branch from "../pages/Branch/Branch";
 import CarInsurance from "../pages/Car-Insurance/CarInsurance";
 import FireInsurance from "../pages/Fire-Insurance/FireInsurance";
@@ -31,7 +30,6 @@ const AppRoute = () => {
       <Route path={"/dashboard"} element={<Dashboard />} />
       <Route path={"/contact"} element={<Contact />} />
       <Route path={"/about"} element={<About />} />
-      <Route path={"/test"} element={<Test />} />
       <Route path={"/branch"} element={<Branch />} />
       <Route path={"/CarInsurance"} element={<CarInsurance />} />
       <Route path={"/FireInsurance"} element={<FireInsurance />} />

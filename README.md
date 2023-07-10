@@ -42,7 +42,11 @@ Run this commands in **respectively** in your terminal. \
 ```shell
  git clone https://github.com/mohammadnedaei/BimeYaran-React-MySQL.git
 
- cd BimeYaran-React-MySQL &&  cd server &&  npm i && nodemon ./index.js && cd .. && cd client && npm i & npm run dev
+ cd BimeYaran-React-MySQL &&  cd server &&  npm i && nodemon ./index.js 
+ ```
+* Open new terminal in repository folder and run:
+```shell
+ cd client && npm i & npm run dev
 ```
 * Run `bime_yaran.sql` SQL dump file with any DB manager like `DataGrip`, `MySQL management`, `HeidiSQL`, `phpMyAdmin` or etc...
 * Or you can simply run this code block in MySQL terminal:
