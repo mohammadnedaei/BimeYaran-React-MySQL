@@ -14,6 +14,17 @@ different access grants. Back-End is working with a `NodeJS` server connected to
 #### Screenshots may change in the future because of UI/UX changes.
 
 ### 🖥️ Desktop view:
+![home](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/c281897d-3a9c-4da3-9a44-5b5430fbe634)
+![Screenshot from 2023-07-10 14-58-12](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/786b943a-cece-4ac3-ab73-aa8658d7d897)
+![Screenshot from 2023-07-10 14-58-18](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/77317a10-ac36-4931-a01e-7d12ac29dd45)
+![Screenshot from 2023-07-10 14-58-21](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/02fa2991-9ea0-456e-89f0-c64d7cdb686c)
+![Screenshot from 2023-07-10 14-58-24](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/8f990dec-79e6-4512-9355-acb64969775e)
+![Screenshot from 2023-07-10 15-04-05](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/5622e49c-1faf-4ac3-ab66-b98ba6ae28d9)
+![Screenshot from 2023-07-10 15-00-22](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/51f651fb-f171-4cc8-911b-5e6488821bf5)
+![Screenshot from 2023-07-10 15-03-51](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/66995d5e-aa70-49b3-bf33-30bb9a5cd182)
+![Screenshot from 2023-07-10 15-03-19](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/f0595c99-5590-4dcb-9378-d2f57b7d1ba3)
+![Screenshot from 2023-07-10 15-01-08](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/2f3cb5a0-76f2-4ad5-a1ef-e7a7efeab30f)
+
 ## 👁 Scenarios
 🧾 React app is located in `client` directory. React app will run on `localhost:5173` with vite
 which makes it completely separated from Back-End. \
@@ -57,8 +68,7 @@ use bime_yaran;
 source path_to_sql_file.sql;
 ```
 ### Database Diagram Looks like this:
-
-
+![bime_yaran](https://github.com/mohammadnedaei/BimeYaran-React-MySQL/assets/61457864/7be9e3b5-751a-463f-940d-fee072fa495f)
 ### 🧰 Libraries and Tools
 
 ✅ Tailwind UI \
